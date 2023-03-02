@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="WebMathAutomation.HomePage"/>
+      <class name="WebMathAutomation.ConvertKmToMiles"/>
+      <class name="WebMathAutomation.VisitBack"/>
+      <class name="WebMathAutomation.HelpTyping"/>
+      <class name="WebMathAutomation.SalesPrice"/>
+      <class name="WebMathAutomation.TipCalculator"/>
+      <class name="WebMathAutomation.ElectricityCost"/>
+      <class name="WebMathAutomation.Login"/>
+       <class name="WebMathAutomation.CodingPage"/>
+      <class name="WebMathAutomation.News"/>
+      <class name="WebMathAutomation.CountCoins"/>
+      <class name="WebMathAutomation.AreaConversion"/>
+      <class name="WebMathAutomation.PowerConversion"/>
+      <class name="WebMathAutomation.VolumeConversion"/>
+      <class name="WebMathAutomation.Planet"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
